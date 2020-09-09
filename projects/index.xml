@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Bob Chou</title>
+    <link>http://bobchou.com/projects/</link>
+    <description>Recent content in Projects on Bob Chou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://bobchou.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog Service WebApp</title>
+      <link>http://bobchou.com/projects/blog-webapp/</link>
+      <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/blog-webapp/</guid>
+      <description>Full-stack Web Development : React, Node, Express, MongoDB, Bootstrap,
+July 2019 – Aug 2019
+Developed a web app empowering users to create, update, and comment blogs within the community:
+  Built the back-end with Node, Express, and MongoDB, and supported authentication with Passport
+  Developed the front-end with React and styled the UI with Bootstrap
+  </description>
+    </item>
+    
+    <item>
+      <title>From-scratch Scalable and Fault-tolerant Microblogging Server</title>
+      <link>http://bobchou.com/projects/microblogging_server/</link>
+      <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/microblogging_server/</guid>
+      <description>Distributed Application, Back-end Development : Golang, gRPC, Raft, Chord, Distributed Hash Table,
+Mar 2020 – Apr 2020
+Designed a Redis-like storage server and built a Twitter-like microblog service (posts/follows/timelines):
+  Designed and built the back-end with a scalable, load-balanced, and fault-tolerant distributed key-value service using a log-structured Chord distributed hashtable and a consenting cluster under Raft protocol
+  Scaled and balanced the front-end traffic with namespace translation and consistent hashing</description>
+    </item>
+    
+    <item>
+      <title>Multiplayer Third-person Shooting Video Game</title>
+      <link>http://bobchou.com/projects/shooting-game/</link>
+      <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/shooting-game/</guid>
+      <description>Game development : Unity3D, .NET, MySQL, ProtoBuf,
+Oct 2018 – Jan 2019
+Developed an online multiplayer video game with authentication, bots, scoreboard, and chatting modules:
+  Supported host/peer multiplayer mode with .NET framework, and applied data persistence in MySQL
+  Designed a packet delivery protocol with ProtoBuf for queuing events among multiple players
+  </description>
+    </item>
+    
+    <item>
+      <title>Skeleton-based Human Action Recognition</title>
+      <link>http://bobchou.com/projects/action-recog/</link>
+      <pubDate>Wed, 01 May 2019 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/action-recog/</guid>
+      <description>Deep learning : Computer Vision,
+Nov 2018 &amp;ndash; Apr 2019
+An end-to-end human action recognizer cascaded by OpenPose and deep Graphic ConvNet on skeleton map
+ Designed a attention-GRU to decode temporal feature map, and reached 0.86 accuracy on SBU dataset  </description>
+    </item>
+    
+    <item>
+      <title>CPvR: VR CardiopulmonaryResuscitation (CPR) Training Platform</title>
+      <link>http://bobchou.com/projects/cpvr/</link>
+      <pubDate>Wed, 01 Aug 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/cpvr/</guid>
+      <description>VR development : Virtual Reality, Software Engineering,
+Oct 2017 &amp;ndash; Jul 2018
+A VR app for CPR training using Microsoft mixed reality toolkit (\href{https://github.com/Microsoft/MixedRealityToolkit-Unity}{MRTK}) released Beta on Universal Windows Platform (UWP), supporting Windows MR, compatible with HTC Vive.
+ Designed the core interactive feedback module using finite state machine to analyze real-time pressing data  </description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Knowledge Graph Completion</title>
+      <link>http://bobchou.com/projects/knowledge-graph/</link>
+      <pubDate>Tue, 01 May 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/knowledge-graph/</guid>
+      <description>Algorithm development : Knowledge Representation &amp;amp; Reasoning, Data Mining,
+Mar 2018 &amp;ndash; Apr 2018
+An ensemble model for link prediction on a million triples of academic facts and achieved 0.33 mAP@Hit-3
+  Constructed translating embedding models (TransX) to characterize the triple-represented knowledge
+  Adopted DeepWalk to derive the embedding matrix and sorted entities by L2 distance to predict
+  </description>
+    </item>
+    
+  </channel>
+</rss>

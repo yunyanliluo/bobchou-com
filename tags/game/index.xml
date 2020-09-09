@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>game on Bob Chou</title>
+    <link>http://bobchou.com/tags/game/</link>
+    <description>Recent content in game on Bob Chou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="http://bobchou.com/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multiplayer Third-person Shooting Video Game</title>
+      <link>http://bobchou.com/projects/shooting-game/</link>
+      <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/shooting-game/</guid>
+      <description>Game development : Unity3D, .NET, MySQL, ProtoBuf,
+Oct 2018 – Jan 2019
+Developed an online multiplayer video game with authentication, bots, scoreboard, and chatting modules:
+  Supported host/peer multiplayer mode with .NET framework, and applied data persistence in MySQL
+  Designed a packet delivery protocol with ProtoBuf for queuing events among multiple players
+  </description>
+    </item>
+    
+    <item>
+      <title>CPvR: VR CardiopulmonaryResuscitation (CPR) Training Platform</title>
+      <link>http://bobchou.com/projects/cpvr/</link>
+      <pubDate>Wed, 01 Aug 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/cpvr/</guid>
+      <description>VR development : Virtual Reality, Software Engineering,
+Oct 2017 &amp;ndash; Jul 2018
+A VR app for CPR training using Microsoft mixed reality toolkit (\href{https://github.com/Microsoft/MixedRealityToolkit-Unity}{MRTK}) released Beta on Universal Windows Platform (UWP), supporting Windows MR, compatible with HTC Vive.
+ Designed the core interactive feedback module using finite state machine to analyze real-time pressing data  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>full-stack on Bob Chou</title>
+    <link>http://bobchou.com/tags/full-stack/</link>
+    <description>Recent content in full-stack on Bob Chou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="http://bobchou.com/tags/full-stack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog Service WebApp</title>
+      <link>http://bobchou.com/projects/blog-webapp/</link>
+      <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/blog-webapp/</guid>
+      <description>Full-stack Web Development : React, Node, Express, MongoDB, Bootstrap,
+July 2019 – Aug 2019
+Developed a web app empowering users to create, update, and comment blogs within the community:
+  Built the back-end with Node, Express, and MongoDB, and supported authentication with Passport
+  Developed the front-end with React and styled the UI with Bootstrap
+  </description>
+    </item>
+    
+  </channel>
+</rss>

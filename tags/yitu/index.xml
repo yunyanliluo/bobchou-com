@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yitu on Bob Chou</title>
+    <link>http://bobchou.com/tags/yitu/</link>
+    <description>Recent content in yitu on Bob Chou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Oct 2018 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="http://bobchou.com/tags/yitu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>YITU Tech Inc., R&amp;D Department</title>
+      <link>http://bobchou.com/internships/yitu/</link>
+      <pubDate>Sun, 14 Oct 2018 11:25:05 -0400</pubDate>
+      
+      <guid>http://bobchou.com/internships/yitu/</guid>
+      <description>Machine Learning Intern (Jun 2018 – Sept 2018):
+TensorFlow, Caffe,
+Refined, accelerated, and deployed real-world at-scale AI software system:
+  Applied knowledge distillation and integrated feature pyramid networks (FPN) to SSD/MobileNetV2
+  Achieved3.4xspeedupand3%recallimprovement(98%intotal)forrealtimemultitaskobjectdetection
+  </description>
+    </item>
+    
+  </channel>
+</rss>

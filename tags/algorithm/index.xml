@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algorithm on Bob Chou</title>
+    <link>http://bobchou.com/tags/algorithm/</link>
+    <description>Recent content in algorithm on Bob Chou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="http://bobchou.com/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skeleton-based Human Action Recognition</title>
+      <link>http://bobchou.com/projects/action-recog/</link>
+      <pubDate>Wed, 01 May 2019 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/action-recog/</guid>
+      <description>Deep learning : Computer Vision,
+Nov 2018 &amp;ndash; Apr 2019
+An end-to-end human action recognizer cascaded by OpenPose and deep Graphic ConvNet on skeleton map
+ Designed a attention-GRU to decode temporal feature map, and reached 0.86 accuracy on SBU dataset  </description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Knowledge Graph Completion</title>
+      <link>http://bobchou.com/projects/knowledge-graph/</link>
+      <pubDate>Tue, 01 May 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/knowledge-graph/</guid>
+      <description>Algorithm development : Knowledge Representation &amp;amp; Reasoning, Data Mining,
+Mar 2018 &amp;ndash; Apr 2018
+An ensemble model for link prediction on a million triples of academic facts and achieved 0.33 mAP@Hit-3
+  Constructed translating embedding models (TransX) to characterize the triple-represented knowledge
+  Adopted DeepWalk to derive the embedding matrix and sorted entities by L2 distance to predict
+  </description>
+    </item>
+    
+  </channel>
+</rss>

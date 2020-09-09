@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intel on Bob Chou</title>
+    <link>http://bobchou.com/tags/intel/</link>
+    <description>Recent content in intel on Bob Chou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2019 18:49:17 +0800</lastBuildDate>
+    
+	<atom:link href="http://bobchou.com/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intel Co.,Ltd., Big Data Technology</title>
+      <link>http://bobchou.com/internships/intel/</link>
+      <pubDate>Wed, 31 Jul 2019 18:49:17 +0800</pubDate>
+      
+      <guid>http://bobchou.com/internships/intel/</guid>
+      <description>Software Engineer Intern (Jan 2019 – July 2019):
+Spark, TensorFlow/Keras, Docker,
+Contributed to the development of Analytics Zoo, an open-source distributed deep learning platform:
+  Built end-to-end distributed model pipelines of Analytics Zoo with BigDL, Spark, and TensorFlow
+  Ported and dockerized TensorFlow projects to automatic distributed pipelines on Kubernetes cluster
+  </description>
+    </item>
+    
+  </channel>
+</rss>

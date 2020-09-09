@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hulu on Bob Chou</title>
+    <link>http://bobchou.com/tags/hulu/</link>
+    <description>Recent content in hulu on Bob Chou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="http://bobchou.com/tags/hulu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hulu LLC, Ad Platform</title>
+      <link>http://bobchou.com/internships/hulu/</link>
+      <pubDate>Sat, 15 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/internships/hulu/</guid>
+      <description>Software Engineer Intern (Jun 2020 – Aug 2020):
+React, Elasticsearch, Node, Express, MySQL, Kubernetes, Docker, Terraform,
+Designed, implemented, and deployed a full-stack search tool for ad campaigns with 400x speedup:
+  Built a search engine on top of MySQL with Elasticsearch, and deployed on AWS EC2 with Terraform
+  Designed, built, dockerized, and deployed a MySQL ingestor with Logstash and JDBC on Kubernetes
+  Developed a search tool with React, Node, &amp;amp; Express, and integrated into the internal product</description>
+    </item>
+    
+  </channel>
+</rss>

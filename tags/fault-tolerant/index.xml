@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fault-tolerant on Bob Chou</title>
+    <link>http://bobchou.com/tags/fault-tolerant/</link>
+    <description>Recent content in fault-tolerant on Bob Chou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="http://bobchou.com/tags/fault-tolerant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From-scratch Scalable and Fault-tolerant Microblogging Server</title>
+      <link>http://bobchou.com/projects/microblogging_server/</link>
+      <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/microblogging_server/</guid>
+      <description>Distributed Application, Back-end Development : Golang, gRPC, Raft, Chord, Distributed Hash Table,
+Mar 2020 – Apr 2020
+Designed a Redis-like storage server and built a Twitter-like microblog service (posts/follows/timelines):
+  Designed and built the back-end with a scalable, load-balanced, and fault-tolerant distributed key-value service using a log-structured Chord distributed hashtable and a consenting cluster under Raft protocol
+  Scaled and balanced the front-end traffic with namespace translation and consistent hashing</description>
+    </item>
+    
+  </channel>
+</rss>

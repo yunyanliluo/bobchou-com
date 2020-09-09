@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internships on Bob Chou</title>
+    <link>http://bobchou.com/internships/</link>
+    <description>Recent content in Internships on Bob Chou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://bobchou.com/internships/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hulu LLC, Ad Platform</title>
+      <link>http://bobchou.com/internships/hulu/</link>
+      <pubDate>Sat, 15 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/internships/hulu/</guid>
+      <description>Software Engineer Intern (Jun 2020 – Aug 2020):
+React, Elasticsearch, Node, Express, MySQL, Kubernetes, Docker, Terraform,
+Designed, implemented, and deployed a full-stack search tool for ad campaigns with 400x speedup:
+  Built a search engine on top of MySQL with Elasticsearch, and deployed on AWS EC2 with Terraform
+  Designed, built, dockerized, and deployed a MySQL ingestor with Logstash and JDBC on Kubernetes
+  Developed a search tool with React, Node, &amp;amp; Express, and integrated into the internal product</description>
+    </item>
+    
+    <item>
+      <title>Intel Co.,Ltd., Big Data Technology</title>
+      <link>http://bobchou.com/internships/intel/</link>
+      <pubDate>Wed, 31 Jul 2019 18:49:17 +0800</pubDate>
+      
+      <guid>http://bobchou.com/internships/intel/</guid>
+      <description>Software Engineer Intern (Jan 2019 – July 2019):
+Spark, TensorFlow/Keras, Docker,
+Contributed to the development of Analytics Zoo, an open-source distributed deep learning platform:
+  Built end-to-end distributed model pipelines of Analytics Zoo with BigDL, Spark, and TensorFlow
+  Ported and dockerized TensorFlow projects to automatic distributed pipelines on Kubernetes cluster
+  </description>
+    </item>
+    
+    <item>
+      <title>YITU Tech Inc., R&amp;D Department</title>
+      <link>http://bobchou.com/internships/yitu/</link>
+      <pubDate>Sun, 14 Oct 2018 11:25:05 -0400</pubDate>
+      
+      <guid>http://bobchou.com/internships/yitu/</guid>
+      <description>Machine Learning Intern (Jun 2018 – Sept 2018):
+TensorFlow, Caffe,
+Refined, accelerated, and deployed real-world at-scale AI software system:
+  Applied knowledge distillation and integrated feature pyramid networks (FPN) to SSD/MobileNetV2
+  Achieved3.4xspeedupand3%recallimprovement(98%intotal)forrealtimemultitaskobjectdetection
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bob Chou</title>
+    <link>http://bobchou.com/</link>
+    <description>Recent content on Bob Chou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="http://bobchou.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hulu LLC, Ad Platform</title>
+      <link>http://bobchou.com/internships/hulu/</link>
+      <pubDate>Sat, 15 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/internships/hulu/</guid>
+      <description>Software Engineer Intern (Jun 2020 – Aug 2020):
+React, Elasticsearch, Node, Express, MySQL, Kubernetes, Docker, Terraform,
+Designed, implemented, and deployed a full-stack search tool for ad campaigns with 400x speedup:
+  Built a search engine on top of MySQL with Elasticsearch, and deployed on AWS EC2 with Terraform
+  Designed, built, dockerized, and deployed a MySQL ingestor with Logstash and JDBC on Kubernetes
+  Developed a search tool with React, Node, &amp;amp; Express, and integrated into the internal product</description>
+    </item>
+    
+    <item>
+      <title>Blog Service WebApp</title>
+      <link>http://bobchou.com/projects/blog-webapp/</link>
+      <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/blog-webapp/</guid>
+      <description>Full-stack Web Development : React, Node, Express, MongoDB, Bootstrap,
+July 2019 – Aug 2019
+Developed a web app empowering users to create, update, and comment blogs within the community:
+  Built the back-end with Node, Express, and MongoDB, and supported authentication with Passport
+  Developed the front-end with React and styled the UI with Bootstrap
+  </description>
+    </item>
+    
+    <item>
+      <title>From-scratch Scalable and Fault-tolerant Microblogging Server</title>
+      <link>http://bobchou.com/projects/microblogging_server/</link>
+      <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/microblogging_server/</guid>
+      <description>Distributed Application, Back-end Development : Golang, gRPC, Raft, Chord, Distributed Hash Table,
+Mar 2020 – Apr 2020
+Designed a Redis-like storage server and built a Twitter-like microblog service (posts/follows/timelines):
+  Designed and built the back-end with a scalable, load-balanced, and fault-tolerant distributed key-value service using a log-structured Chord distributed hashtable and a consenting cluster under Raft protocol
+  Scaled and balanced the front-end traffic with namespace translation and consistent hashing</description>
+    </item>
+    
+    <item>
+      <title>Multiplayer Third-person Shooting Video Game</title>
+      <link>http://bobchou.com/projects/shooting-game/</link>
+      <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/shooting-game/</guid>
+      <description>Game development : Unity3D, .NET, MySQL, ProtoBuf,
+Oct 2018 – Jan 2019
+Developed an online multiplayer video game with authentication, bots, scoreboard, and chatting modules:
+  Supported host/peer multiplayer mode with .NET framework, and applied data persistence in MySQL
+  Designed a packet delivery protocol with ProtoBuf for queuing events among multiple players
+  </description>
+    </item>
+    
+    <item>
+      <title>University California - San Diego (UCSD)</title>
+      <link>http://bobchou.com/education/ucsd/</link>
+      <pubDate>Thu, 03 Oct 2019 18:49:17 +0800</pubDate>
+      
+      <guid>http://bobchou.com/education/ucsd/</guid>
+      <description>M.S. in Computer Engineering
+Sept 2019 – Dec 2020 (expected)
+GPA: 3.93 / 4.00</description>
+    </item>
+    
+    <item>
+      <title>Shanghai Jiao Tong University (SJTU)</title>
+      <link>http://bobchou.com/education/sjtu/</link>
+      <pubDate>Thu, 03 Oct 2019 18:48:17 +0800</pubDate>
+      
+      <guid>http://bobchou.com/education/sjtu/</guid>
+      <description>B.S. in Electronics Engineering
+Sept 2015 – Jun 2019
+Major Ranking: 4 / 58
+Major GPA: 90.0 / 100</description>
+    </item>
+    
+    <item>
+      <title>Intel Co.,Ltd., Big Data Technology</title>
+      <link>http://bobchou.com/internships/intel/</link>
+      <pubDate>Wed, 31 Jul 2019 18:49:17 +0800</pubDate>
+      
+      <guid>http://bobchou.com/internships/intel/</guid>
+      <description>Software Engineer Intern (Jan 2019 – July 2019):
+Spark, TensorFlow/Keras, Docker,
+Contributed to the development of Analytics Zoo, an open-source distributed deep learning platform:
+  Built end-to-end distributed model pipelines of Analytics Zoo with BigDL, Spark, and TensorFlow
+  Ported and dockerized TensorFlow projects to automatic distributed pipelines on Kubernetes cluster
+  </description>
+    </item>
+    
+    <item>
+      <title>Skeleton-based Human Action Recognition</title>
+      <link>http://bobchou.com/projects/action-recog/</link>
+      <pubDate>Wed, 01 May 2019 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/action-recog/</guid>
+      <description>Deep learning : Computer Vision,
+Nov 2018 &amp;ndash; Apr 2019
+An end-to-end human action recognizer cascaded by OpenPose and deep Graphic ConvNet on skeleton map
+ Designed a attention-GRU to decode temporal feature map, and reached 0.86 accuracy on SBU dataset  </description>
+    </item>
+    
+    <item>
+      <title>YITU Tech Inc., R&amp;D Department</title>
+      <link>http://bobchou.com/internships/yitu/</link>
+      <pubDate>Sun, 14 Oct 2018 11:25:05 -0400</pubDate>
+      
+      <guid>http://bobchou.com/internships/yitu/</guid>
+      <description>Machine Learning Intern (Jun 2018 – Sept 2018):
+TensorFlow, Caffe,
+Refined, accelerated, and deployed real-world at-scale AI software system:
+  Applied knowledge distillation and integrated feature pyramid networks (FPN) to SSD/MobileNetV2
+  Achieved3.4xspeedupand3%recallimprovement(98%intotal)forrealtimemultitaskobjectdetection
+  </description>
+    </item>
+    
+    <item>
+      <title>CPvR: VR CardiopulmonaryResuscitation (CPR) Training Platform</title>
+      <link>http://bobchou.com/projects/cpvr/</link>
+      <pubDate>Wed, 01 Aug 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/cpvr/</guid>
+      <description>VR development : Virtual Reality, Software Engineering,
+Oct 2017 &amp;ndash; Jul 2018
+A VR app for CPR training using Microsoft mixed reality toolkit (\href{https://github.com/Microsoft/MixedRealityToolkit-Unity}{MRTK}) released Beta on Universal Windows Platform (UWP), supporting Windows MR, compatible with HTC Vive.
+ Designed the core interactive feedback module using finite state machine to analyze real-time pressing data  </description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Knowledge Graph Completion</title>
+      <link>http://bobchou.com/projects/knowledge-graph/</link>
+      <pubDate>Tue, 01 May 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://bobchou.com/projects/knowledge-graph/</guid>
+      <description>Algorithm development : Knowledge Representation &amp;amp; Reasoning, Data Mining,
+Mar 2018 &amp;ndash; Apr 2018
+An ensemble model for link prediction on a million triples of academic facts and achieved 0.33 mAP@Hit-3
+  Constructed translating embedding models (TransX) to characterize the triple-represented knowledge
+  Adopted DeepWalk to derive the embedding matrix and sorted entities by L2 distance to predict
+  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://bobchou.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bobchou.com/contact/</guid>
+      <description>Please feel free to contact me via email to job.bozhou@gmail.com. Or if you need to know more about me, please send me a message and wait for my response. After you send me a message, check out LinkedIn for a simple, free add-friend service.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
